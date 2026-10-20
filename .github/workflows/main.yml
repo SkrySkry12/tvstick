@@ -15,11 +15,13 @@ jobs:
           distribution: temurin
           java-version: 17
 
-      - uses: android-actions/setup-android@v3
-
       # local.properties z repo wskazuje na sciezke z innego komputera
       - name: Remove local.properties
         run: rm -f local.properties
+
+      # Runner ma juz Android SDK; wystarczy zaakceptowac licencje
+      - name: Accept SDK licenses
+        run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null || true
 
       - name: Build release APK
         run: |

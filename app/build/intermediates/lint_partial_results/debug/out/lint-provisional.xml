@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.2.2" type="conditional_incidents">
+
+    <incident
+        id="ObsoleteSdkInt"
+        severity="warning"
+        message="Unnecessary; SDK_INT is always >= 34">
+        <fix-replace
+            description="Delete tools:targetApi"
+            replacement="">
+            <range
+                file="${:app*debug*MAIN*sourceProvider*0*manifest*0}"
+                startOffset="1261"
+                endOffset="1281"/>
+        </fix-replace>
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*manifest*0}"
+            line="34"
+            column="9"
+            startOffset="1261"
+            endLine="34"
+            endColumn="29"
+            endOffset="1281"/>
+        <map>
+            <condition minGE="fffffffe00000000"/>
+        </map>
+    </incident>
+
+    <incident
+        id="QueryPermissionsNeeded"
+        severity="warning"
+        message="Consider adding a `&lt;queries>` declaration to your manifest when calling this \&#xA;method; see https://g.co/dev/packagevisibility for details">
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/mistick/launcher/AppRepository.kt"
+            line="38"
+            column="16"
+            startOffset="1622"
+            endLine="38"
+            endColumn="37"
+            endOffset="1643"/>
+        <map>
+            <entry
+                name="queryAll"
+                boolean="false"/>
+        </map>
+    </incident>
+
+    <incident
+        id="QueryPermissionsNeeded"
+        severity="warning"
+        message="Consider adding a `&lt;queries>` declaration to your manifest when calling this \&#xA;method; see https://g.co/dev/packagevisibility for details">
+        <location
+            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/mistick/launcher/AppRepository.kt"
+            line="41"
+            column="16"
+            startOffset="1760"
+            endLine="41"
+            endColumn="37"
+            endOffset="1781"/>
+        <map>
+            <entry
+                name="queryAll"
+                boolean="false"/>
+        </map>
+    </incident>
+
+</incidents>

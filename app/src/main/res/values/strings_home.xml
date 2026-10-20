@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brand_first">Kiełtyka</string>
+    <string name="brand_second">TV</string>
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_day">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+
+    <string name="section_featured">Featured</string>
+    <string name="section_quick">Quick access</string>
+    <string name="section_my_apps">My apps</string>
+    <string name="section_all_apps">All apps</string>
+    <string name="quick_hint">Menu: launcher settings</string>
+    <string name="apps_hint">hold <b>OK</b> or <b>Menu</b>: options &amp; move</string>
+
+    <string name="hero_badge_recent">Recently used</string>
+    <string name="hero_badge_suggested">Suggested for you</string>
+    <string name="hero_overline">KiełtykaTV · Featured</string>
+    <string name="hero_desc_recent">Press OK to pick up right where you left off.</string>
+    <string name="hero_desc_suggested">Installed on this TV and ready to watch.</string>
+    <string name="hero_open">Open</string>
+    <string name="hero_info">Details</string>
+    <string name="hero_all">All apps</string>
+    <string name="hero_empty_title">Welcome</string>
+
+    <string name="qa_settings">Settings</string>
+    <string name="qa_search">Search</string>
+    <string name="qa_display">Display</string>
+    <string name="volume">Volume</string>
+    <string name="volume_hint">◀ ▶ to change</string>
+    <string name="volume_fixed">Controlled by the TV (HDMI‑CEC)</string>
+    <string name="airplay">AirPlay receiver</string>
+    <string name="airplay_ready">AirScreen installed — press OK to open</string>
+    <string name="airplay_missing">Install AirScreen from Google Play</string>
+    <string name="storage">Storage</string>
+    <string name="storage_value">%1$s free of %2$s</string>
+
+    <string name="net_wifi">Wi‑Fi</string>
+    <string name="net_ethernet">Ethernet</string>
+    <string name="net_none">Offline</string>
+
+    <string name="hint_back">Back</string>
+    <string name="hint_ok">Open</string>
+    <string name="hint_menu">Menu</string>
+    <string name="hint_search">Search</string>
+    <string name="act_open">Open</string>
+    <string name="act_pin">Move to front</string>
+    <string name="act_info">App info</string>
+    <string name="act_uninstall">Uninstall</string>
+    <string name="act_disable">Disable / app info</string>
+    <string name="act_system_note">System app — it can only be disabled</string>
+    <string name="act_user_note">Installed app</string>
+    <string name="hint_hold">Hold OK</string>
+    <string name="hint_options">Options</string>
+    <string name="act_move">Move</string>
+    <string name="move_hint">◀ ▶ move · OK or Back to confirm</string>
+    <string name="move_saved">Order saved</string>
+    <string name="launch_failed">Unable to launch app</string>
+</resources>

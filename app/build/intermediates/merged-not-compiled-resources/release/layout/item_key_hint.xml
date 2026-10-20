@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="16dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <FrameLayout
+        android:id="@+id/kh_chip"
+        android:layout_width="wrap_content"
+        android:layout_height="16dp"
+        android:minWidth="16dp"
+        android:background="@drawable/key_chip"
+        android:paddingStart="4dp"
+        android:paddingEnd="4dp">
+
+        <ImageView
+            android:id="@+id/kh_icon"
+            android:layout_width="7dp"
+            android:layout_height="7dp"
+            android:layout_gravity="center"
+            android:alpha="0.8"
+            android:importantForAccessibility="no" />
+
+        <TextView
+            android:id="@+id/kh_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/inter_semibold"
+            android:textColor="#CCFFFFFF"
+            android:textSize="6sp"
+            android:visibility="gone" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/kh_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:fontFamily="@font/inter_medium"
+        android:textColor="#80FFFFFF"
+        android:textSize="7.5sp" />
+</LinearLayout>

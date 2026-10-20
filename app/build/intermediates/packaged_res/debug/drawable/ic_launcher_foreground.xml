@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- 3x3 app grid centered in the 66dp safe zone -->
+    <group android:translateX="30" android:translateY="30" android:scaleX="2" android:scaleY="2">
+        <path android:fillColor="#FFFFFFFF"
+            android:pathData="M0,4h4V0H0V4zM6,16h4v-4H6V16zM0,16h4v-4H0V16zM0,10h4V6H0V10zM6,10h4V6H6V10zM12,0v4h4V0H12zM6,4h4V0H6V4zM12,10h4V6h-4V10zM12,16h4v-4h-4V16z" />
+    </group>
+</vector>

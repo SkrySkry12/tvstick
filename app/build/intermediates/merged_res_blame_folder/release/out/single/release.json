@@ -1,0 +1,1354 @@
+[
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_hq.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_hq.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_vertical_grid_enter_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_vertical_grid_enter_transition.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_browse_title.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_browse_title.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_onboarding_start_button_fade_out.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_onboarding_start_button_fade_out.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_ic_call_answer.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxxhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/layout_item_status_row.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/item_status_row.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_onboarding_start_button_fade_in.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_onboarding_start_button_fade_in.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_glass_pill.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/glass_pill.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_fragment_close_exit.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-fragment-1.6.2-17:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_ic_settings.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_guidedactions_item_unpressed.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_guidedactions_item_unpressed.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_bluetooth.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_bluetooth.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_card_background.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/card_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_browse_entrance_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_browse_entrance_transition.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_browse_return_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_browse_return_transition.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_info.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_info.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_accent_gradient.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/accent_gradient.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator-v21_lb_playback_description_fade_out.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator-v21/lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-anydpi-v21_ic_call_answer_video_low.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_playback_transport_controls.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_playback_transport_controls.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/layout_item_tile.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/item_tile.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_storage.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_storage.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-hdpi-v4/lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_search_orb.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_search_orb.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_row_media_item_action.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_row_media_item_action.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_lb_speech_orb.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable/lb_speech_orb.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_picker.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_picker.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_control_bar.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_control_bar.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_action_1_line.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_action_1_line.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-media-1.0.0-11:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_video_surface_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/video_surface_fragment.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_row_container.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_row_container.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_play.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_play.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_pill_white.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/pill_white.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-v21_lb_action_bg.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-v21/lb_action_bg.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xxhdpi-v4/lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_circle_soft.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/circle_soft.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_apps.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_apps.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxxhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xxhdpi-v4/lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_open_in_new.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_open_in_new.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_fragment_open_exit.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-fragment-1.6.2-17:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-media-1.0.0-11:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_video_surface.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_video_surface.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_ic_call_decline.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_dot_idle.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/dot_idle.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-mdpi-v4/lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_image_card_view.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_image_card_view.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_playback_loop.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_playback_loop.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-v21_lb_card_foreground.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-v21/lb_card_foreground.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_thumb_down.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_thumb_down.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator-v21_lb_playback_bg_fade_out.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator-v21/lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_guidedstep_slide_up.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_guidedstep_slide_up.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_cast_connected.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_cast_connected.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_settings.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_settings.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_guidedactions_datepicker_item.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_track.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/track.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_arrow_back.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_arrow_back.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/font_inter_medium.ttf.flat",
+        "source": "com.mistick.launcher.app-main-30:/font/inter_medium.ttf"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/layout_item_quick_tile.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/item_quick_tile.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_ic_call_answer.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_fragment_home.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_title_out.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_title_out.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_playback_controls_fade_in.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_playback_controls_fade_in.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_loop.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_loop.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/layout_item_key_hint.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/item_key_hint.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_section_header.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_section_header.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-v21_lb_control_button_primary.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-v21/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_image_card_view_themed_badge_right.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_thumb_up_outline.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_thumb_up_outline.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator-v21_lb_onboarding_logo_enter.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator-v21/lb_onboarding_logo_enter.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_glass_tile.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/glass_tile.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-hdpi-v4/lb_ic_search_mic.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxxhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_ic_call_decline_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/layout_activity_home.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_notification_icon_background.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_search.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_search.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_lb_playback_now_playing_bar.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable/lb_playback_now_playing_bar.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxxhdpi-v4_ic_call_answer.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable-nodpi_hero_art.jpg.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable-nodpi/hero_art.jpg"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_live_dot.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/live_dot.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-anydpi-v21_ic_call_answer_low.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_notification_bg.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-mdpi-v4/lb_ic_search_mic.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_indicator.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/indicator.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_item_app_card.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/layout/item_app_card.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_guidedstep_activity_enter_bottom.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_guidedstep_activity_enter_bottom.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_control_button_secondary.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_menu.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_menu.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_text_dot_one_small.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_text_dot_one_small.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_speech_orb.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_speech_orb.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_play_fit.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_play_fit.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-media-1.0.0-11:/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-media-1.0.0-11:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-ldpi-v4_ic_call_decline_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_details_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_details_fragment.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_pause.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_pause.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator-v21_lb_onboarding_logo_exit.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator-v21/lb_onboarding_logo_exit.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-hdpi-v4/lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_footer_fade.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/footer_fade.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_loop_one.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_loop_one.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_details_enter_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_details_enter_transition.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_cc.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_cc.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_key_chip.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/key_chip.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_vertical_grid_entrance_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_vertical_grid_entrance_transition.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_search_mic.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-mdpi-v4/lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_custom_dialog.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_volume_up.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_volume_up.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_notification_bg_low.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-anydpi-v21_ic_call_answer.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_ic_call_answer_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_guidance.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_guidance.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_fragment_fade_enter.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-fragment-1.6.2-17:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_card_shadow_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_card_shadow_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_media_action.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-media-1.0.0-11:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xxhdpi-v4/lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_text_dot_one.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_text_dot_one.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-media-1.0.0-11:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_edge_fade.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/edge_fade.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/raw_lb_voice_success.ogg.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/raw/lb_voice_success.ogg"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-mdpi-v4/lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xxhdpi-v4/lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout-v21_notification_action.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_tv.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_tv.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_playback_transport_controls_row.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_playback_transport_controls_row.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_lb_background.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable/lb_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_playback_description_fade_in.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_playback_description_fade_in.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_rounded_soft.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/rounded_soft.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-ldpi-v4_ic_call_decline.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_footer_line.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/footer_line.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_ic_call_decline.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_skip_next.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_skip_next.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/raw_lb_voice_open.ogg.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/raw/lb_voice_open.ogg"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_headers_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_headers_fragment.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_pip.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_pip.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_more.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_more.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xxhdpi-v4/lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_ic_tune.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/ic_tune.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_template_media.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-media-1.0.0-11:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/anim_lb_decelerator_4.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/anim/lb_decelerator_4.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_action_2_lines.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_action_2_lines.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_playback_controls.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_playback_controls.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/raw_lb_voice_failure.ogg.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/raw/lb_voice_failure.ogg"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_fullwidth_details_overview.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-mdpi-v4/lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_card_shadow_focused.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_card_shadow_focused.9.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/layout_dialog_app_actions.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/dialog_app_actions.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_shadow.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_shadow.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_onboarding_page_indicator_fade_out.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_onboarding_page_indicator_fade_out.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator-v21_lb_onboarding_title_enter.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator-v21/lb_onboarding_title_enter.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_return_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_return_transition.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_divider.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_divider.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_ic_call_decline.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_fragment_open_enter.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-fragment-1.6.2-17:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_browse_enter_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_browse_enter_transition.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_ime_secondary_split_test_activity.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_background_window.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_background_window.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_lb_headers_right_fading.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable/lb_headers_right_fading.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_guidedactions_item_pressed.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_guidedactions_item_pressed.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_guidedbuttonactions.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_playback_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_playback_fragment.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_text_dot_two.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_text_dot_two.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_enter_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_enter_transition.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-hdpi-v4/lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-hdpi-v4/lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_playback_controls_fade_out.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_playback_controls_fade_out.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_fullwidth_details_overview_logo.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/anim-v21_fragment_fast_out_extra_slow_in.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-fragment-1.6.2-17:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_guidedactions.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_guidedactions.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_playback_rows_fade_out.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_playback_rows_fade_out.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_lb_playback_progress_bar.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable/lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-mdpi-v4/lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xxhdpi-v4/lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_control_button_primary.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_title_view.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_title_view.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_lb_onboarding_start_button_background.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable/lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_search_bar.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_search_bar.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_template_part_time.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_search_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_search_fragment.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_hero_fade_bottom.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/hero_fade_bottom.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator-v21_lb_playback_bg_fade_in.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator-v21/lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_sheen.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/sheen.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_banner.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/banner.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-anydpi-v21_ic_call_answer_video.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-ldpi-v4_ic_call_answer_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_hero_shape.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/hero_shape.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_shared_element_return_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_shared_element_return_transition.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator-v21_lb_onboarding_page_indicator_enter.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator-v21/lb_onboarding_page_indicator_enter.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_guidedstep_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_text_dot_two_small.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_text_dot_two_small.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_playback_rows_fade_in.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_playback_rows_fade_in.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_list_row_hovercard.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_status_row.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/status_row.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xxhdpi-v4/lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_title_in.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_title_in.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_onboarding_page_indicator_fade_in.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_onboarding_page_indicator_fade_in.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_media_list_header.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_media_list_header.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-v21_lb_control_button_secondary.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-v21/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_skip_previous.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_skip_previous.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_logo_box.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/logo_box.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xxhdpi-v4/lb_ic_search_mic.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-ldpi-v4_ic_call_answer.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_hero_sheen.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/hero_sheen.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/anim_lb_decelerator_2.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/anim/lb_decelerator_2.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_ic_call_answer.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_row_media_item.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_row_media_item.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/font_inter_regular.ttf.flat",
+        "source": "com.mistick.launcher.app-main-30:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_details_return_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_details_return_transition.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_thumb_down_outline.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_thumb_down_outline.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/layout_item_dialog_action.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/item_dialog_action.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_glass_card.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/glass_card.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_hero_fade_left.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/hero_fade_left.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_image_card_view_themed_content.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_image_card_view_themed_badge_left.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_rows_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_rows_fragment.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_row_header.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_row_header.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-media-1.0.0-11:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_guidedstep_background.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_picker_column.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_picker_column.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_notification_template_big_media.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-media-1.0.0-11:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_guidedactions_item.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xxhdpi-v4/lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator-v21_lb_onboarding_description_enter.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator-v21/lb_onboarding_description_enter.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_fast_forward.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_fast_forward.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-hdpi-v4/lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_onboarding_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-anydpi-v21_ic_call_decline.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-anydpi-v21/ic_call_decline.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_shuffle.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_shuffle.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_header.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_header.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_thumb.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/thumb.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_fast_rewind.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_fast_rewind.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_ic_call_decline_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/font_inter_extralight.ttf.flat",
+        "source": "com.mistick.launcher.app-main-30:/font/inter_extralight.ttf"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_browse_headers_in.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_browse_headers_in.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-mdpi-v4/lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-ldpi-v4_ic_call_answer_video.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-ldpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_ic_call_answer_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_shared_element_enter_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_shared_element_enter_transition.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_dialog_glass.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/dialog_glass.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_dot_active.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/dot_active.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_glass.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/glass.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_wifi.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_wifi.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_play_arrow.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_play_arrow.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-hdpi-v4/lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_thumb_up.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_thumb_up.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_ic_call_answer_video.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_replay.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_replay.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_settings_item_background.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/settings_item_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_vertical_grid.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_vertical_grid.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_browse_headers_out.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/font_inter_semibold.ttf.flat",
+        "source": "com.mistick.launcher.app-main-30:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-mdpi-v4/lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_lb_guidedstep_slide_down.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/animator/lb_guidedstep_slide_down.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_image_card_view_themed_title.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-v21_lb_selectable_item_rounded_rect.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-v21/lb_selectable_item_rounded_rect.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_picker_separator.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_picker_separator.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_ic_call_answer.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_list_row.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_list_row.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable_lb_search_orb.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable/lb_search_orb.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/raw_lb_voice_no_input.ogg.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/raw/lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_guidedactions_item_chevron.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_guidedactions_item_chevron.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-hdpi-v4/lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxxhdpi-v4_ic_call_decline.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_picker_item.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_picker_item.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_add.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_add.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_avatar_ring.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/avatar_ring.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_playback_controls_row.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_fragment_fade_exit.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-fragment-1.6.2-17:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-mdpi-v4/lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/animator_fragment_close_enter.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-fragment-1.6.2-17:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_details_description.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_details_description.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_vertical_grid_return_transition.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_vertical_grid_return_transition.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_ic_call_decline.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xxhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-xxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-anydpi-v21_ic_call_decline_low.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/transition-v21_lb_guidedstep_activity_enter.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/transition-v21/lb_guidedstep_activity_enter.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_stop.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_stop.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_activity_settings.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_vertical_grid_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_details_overview.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_details_overview.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_ime_base_split_test_activity.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_delete.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_delete.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_media_item_number_view_flipper.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_media_item_number_view_flipper.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-ldpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_error_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_error_fragment.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_playback_now_playing_bars.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_playback_now_playing_bars.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_nav_arrow.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_nav_arrow.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_ic_call_answer_video.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/layout_lb_browse_fragment.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/layout/lb_browse_fragment.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_notification_oversize_large_icon_bg.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/notification_oversize_large_icon_bg.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-hdpi-v4/lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-xhdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-leanback-1.0.0-10:/drawable-xhdpi-v4/lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-29:/drawable-hdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-core-1.12.0-19:/drawable-hdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-29:/drawable_kic_mic.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_mic.xml"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brand_first">Kiełtyka</string>
+    <string name="brand_second">TV</string>
+    <string name="greeting_morning">Dzień dobry</string>
+    <string name="greeting_day">Miłego dnia</string>
+    <string name="greeting_evening">Dobry wieczór</string>
+
+    <string name="section_featured">Polecane</string>
+    <string name="section_quick">Szybki dostęp</string>
+    <string name="section_my_apps">Moje aplikacje</string>
+    <string name="section_all_apps">Wszystkie aplikacje</string>
+    <string name="quick_hint">Menu: ustawienia launchera</string>
+    <string name="apps_hint">przytrzymaj <b>OK</b> lub <b>Menu</b>: opcje i przenoszenie</string>
+
+    <string name="hero_badge_recent">Ostatnio używane</string>
+    <string name="hero_badge_suggested">Polecane dla Ciebie</string>
+    <string name="hero_overline">KiełtykaTV · Polecane</string>
+    <string name="hero_desc_recent">Naciśnij OK, aby wrócić dokładnie tam, gdzie skończyłeś.</string>
+    <string name="hero_desc_suggested">Zainstalowane na tym telewizorze i gotowe do oglądania.</string>
+    <string name="hero_open">Otwórz</string>
+    <string name="hero_info">Szczegóły</string>
+    <string name="hero_all">Wszystkie aplikacje</string>
+    <string name="hero_empty_title">Witaj</string>
+
+    <string name="qa_settings">Ustawienia</string>
+    <string name="qa_search">Wyszukaj</string>
+    <string name="qa_display">Ekran</string>
+    <string name="volume">Głośność</string>
+    <string name="volume_hint">◀ ▶ aby zmienić</string>
+    <string name="volume_fixed">Sterowana przez telewizor (HDMI‑CEC)</string>
+    <string name="airplay">Odbiornik AirPlay</string>
+    <string name="airplay_ready">AirScreen zainstalowany — OK, aby otworzyć</string>
+    <string name="airplay_missing">Zainstaluj AirScreen z Google Play</string>
+    <string name="storage">Pamięć</string>
+    <string name="storage_value">%1$s wolne z %2$s</string>
+
+    <string name="net_wifi">Wi‑Fi</string>
+    <string name="net_ethernet">Ethernet</string>
+    <string name="net_none">Brak sieci</string>
+
+    <string name="hint_back">Wstecz</string>
+    <string name="hint_ok">Otwórz</string>
+    <string name="hint_menu">Menu</string>
+    <string name="hint_search">Szukaj</string>
+    <string name="act_open">Otwórz</string>
+    <string name="act_pin">Przenieś na początek</string>
+    <string name="act_info">Informacje o aplikacji</string>
+    <string name="act_uninstall">Odinstaluj</string>
+    <string name="act_disable">Wyłącz / informacje</string>
+    <string name="act_system_note">Aplikacja systemowa — można ją tylko wyłączyć</string>
+    <string name="act_user_note">Zainstalowana aplikacja</string>
+    <string name="hint_hold">Przytrzymaj OK</string>
+    <string name="hint_options">Opcje</string>
+    <string name="act_move">Przenieś</string>
+    <string name="move_hint">◀ ▶ przesuń · OK lub Wstecz, aby zatwierdzić</string>
+    <string name="move_saved">Zapisano kolejność</string>
+    <string name="launch_failed">Nie można uruchomić aplikacji</string>
+</resources>

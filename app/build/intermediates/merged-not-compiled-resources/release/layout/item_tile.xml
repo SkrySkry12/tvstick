@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="116dp"
+    android:layout_height="wrap_content"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:focusable="true"
+    android:focusableInTouchMode="false">
+
+    <com.mistick.launcher.ui.GlowView
+        android:id="@+id/tile_glow"
+        android:layout_width="156dp"
+        android:layout_height="115dp"
+        android:layout_marginStart="-20dp"
+        android:layout_marginTop="-20dp" />
+
+    <FrameLayout
+        android:id="@+id/tile_card"
+        android:layout_width="116dp"
+        android:layout_height="75dp"
+        android:background="@drawable/glass_card"
+        android:duplicateParentState="false">
+
+        <ImageView
+            android:id="@+id/tile_banner"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:importantForAccessibility="no"
+            android:scaleType="centerCrop"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/tile_icon"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_gravity="center"
+            android:importantForAccessibility="no"
+            android:scaleType="fitCenter" />
+
+        <View
+            android:id="@+id/tile_sheen"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0"
+            android:background="@drawable/sheen" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/tile_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="81dp"
+        android:ellipsize="end"
+        android:fontFamily="@font/inter_medium"
+        android:gravity="center"
+        android:maxLines="1"
+        android:textColor="#8CFFFFFF"
+        android:textSize="8sp" />
+
+    <View
+        android:id="@+id/tile_indicator"
+        android:layout_width="20dp"
+        android:layout_height="2dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="102dp"
+        android:alpha="0"
+        android:background="@drawable/indicator" />
+</FrameLayout>

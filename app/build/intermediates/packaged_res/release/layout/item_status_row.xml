@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/status_row"
+    android:focusable="true"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingStart="4dp"
+    android:paddingTop="6dp"
+    android:paddingEnd="4dp"
+    android:paddingBottom="6dp">
+
+    <FrameLayout
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:background="@drawable/rounded_soft">
+
+        <ImageView
+            android:id="@+id/sr_icon"
+            android:layout_width="9dp"
+            android:layout_height="9dp"
+            android:layout_gravity="center"
+            android:importantForAccessibility="no" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/sr_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter_medium"
+            android:textColor="#D9FFFFFF"
+            android:textSize="7.5sp" />
+
+        <TextView
+            android:id="@+id/sr_sub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="@font/inter_regular"
+            android:maxLines="1"
+            android:textColor="#66FFFFFF"
+            android:textSize="6.5sp" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/sr_dot"
+        android:layout_width="4dp"
+        android:layout_height="4dp"
+        android:layout_marginStart="4dp"
+        android:background="@drawable/live_dot"
+        android:visibility="gone" />
+
+    <FrameLayout
+        android:id="@+id/sr_bar"
+        android:layout_width="32dp"
+        android:layout_height="3dp"
+        android:layout_marginStart="4dp"
+        android:background="@drawable/track"
+        android:visibility="gone">
+
+        <View
+            android:id="@+id/sr_bar_fill"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="#80FFFFFF" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@color/colorAccent</color>
+    <color name="accent_bright">#40916C</color>
+    <color name="background">@color/colorBackground</color>
+    <color name="colorAccent">#00C896</color>
+    <color name="colorBackground">#0A1A13</color>
+    <color name="colorFocused">#00C896</color>
+    <color name="colorGlow">#6600C896</color>
+    <color name="colorPrimary">#2D6A4F</color>
+    <color name="colorPrimaryDark">#1B4D3E</color>
+    <color name="colorSecondary">#40916C</color>
+    <color name="home_bg">#040A07</color>
+    <color name="ic_launcher_background">#2D6A4F</color>
+    <color name="surface">#14291F</color>
+    <color name="surface_focused">#1B4D3E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A7C4B5</color>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_height">117dp</dimen>
+    <dimen name="card_icon_size">72dp</dimen>
+    <dimen name="card_stroke">3dp</dimen>
+    <dimen name="card_width">208dp</dimen>
+    <dimen name="header_padding_bottom">8dp</dimen>
+    <dimen name="header_padding_top">24dp</dimen>
+    <dimen name="screen_margin_horizontal">48dp</dimen>
+    <dimen name="screen_margin_vertical">27dp</dimen>
+    <dimen name="settings_item_height">56dp</dimen>
+    <dimen name="settings_width">560dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="text_card_label">14sp</dimen>
+    <dimen name="text_clock">32sp</dimen>
+    <dimen name="text_date">14sp</dimen>
+    <dimen name="text_header_title">18sp</dimen>
+    <dimen name="text_row_header">18sp</dimen>
+    <dimen name="text_settings_item">18sp</dimen>
+    <dimen name="text_settings_title">28sp</dimen>
+    <fraction name="card_focus_scale">110%</fraction>
+    <integer name="card_anim_duration">150</integer>
+    <plurals name="apps_count">
+        <item quantity="one">%d app</item>
+        <item quantity="other">%d apps</item>
+    </plurals>
+    <string name="act_disable">Disable / app info</string>
+    <string name="act_info">App info</string>
+    <string name="act_move">Move</string>
+    <string name="act_open">Open</string>
+    <string name="act_pin">Move to front</string>
+    <string name="act_system_note">System app — it can only be disabled</string>
+    <string name="act_uninstall">Uninstall</string>
+    <string name="act_user_note">Installed app</string>
+    <string name="airplay">AirPlay receiver</string>
+    <string name="airplay_missing">Install AirScreen from Google Play</string>
+    <string name="airplay_ready">AirScreen installed — press OK to open</string>
+    <string name="app_name">KiełtykaTV</string>
+    <string name="apps_hint">hold <b>OK</b> or <b>Menu</b>: options &amp; move</string>
+    <string name="brand_first">Kiełtyka</string>
+    <string name="brand_second">TV</string>
+    <string name="date_format">EEEE, d MMMM</string>
+    <string name="error_cannot_launch">Unable to open this app</string>
+    <string name="error_no_voice">Voice search is not available on this device</string>
+    <string name="greeting_day">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="greeting_morning">Good morning</string>
+    <string name="header_greeting">Home</string>
+    <string name="hero_all">All apps</string>
+    <string name="hero_badge_recent">Recently used</string>
+    <string name="hero_badge_suggested">Suggested for you</string>
+    <string name="hero_desc_recent">Press OK to pick up right where you left off.</string>
+    <string name="hero_desc_suggested">Installed on this TV and ready to watch.</string>
+    <string name="hero_empty_title">Welcome</string>
+    <string name="hero_info">Details</string>
+    <string name="hero_open">Open</string>
+    <string name="hero_overline">KiełtykaTV · Featured</string>
+    <string name="hint_back">Back</string>
+    <string name="hint_hold">Hold OK</string>
+    <string name="hint_menu">Menu</string>
+    <string name="hint_ok">Open</string>
+    <string name="hint_options">Options</string>
+    <string name="hint_search">Search</string>
+    <string name="launch_failed">Unable to launch app</string>
+    <string name="move_hint">◀ ▶ move · OK or Back to confirm</string>
+    <string name="move_saved">Order saved</string>
+    <string name="net_ethernet">Ethernet</string>
+    <string name="net_none">Offline</string>
+    <string name="net_wifi">Wi‑Fi</string>
+    <string name="qa_display">Display</string>
+    <string name="qa_search">Search</string>
+    <string name="qa_settings">Settings</string>
+    <string name="quick_hint">Menu: launcher settings</string>
+    <string name="row_all_apps">All Apps</string>
+    <string name="row_my_apps">My Apps</string>
+    <string name="row_settings">Settings</string>
+    <string name="search_hint">Search apps</string>
+    <string name="search_no_results">No apps found for \"%1$s\"</string>
+    <string name="search_results">Results (%1$d)</string>
+    <string name="section_all_apps">All apps</string>
+    <string name="section_featured">Featured</string>
+    <string name="section_my_apps">My apps</string>
+    <string name="section_quick">Quick access</string>
+    <string name="settings_banners">Use TV banners on cards</string>
+    <string name="settings_default_home">Choose default home app</string>
+    <string name="settings_privacy">No ads, no tracking, no network access.</string>
+    <string name="settings_show_all">Show \"All Apps\" row</string>
+    <string name="settings_show_system">Show system apps in \"My Apps\"</string>
+    <string name="settings_title">Launcher settings</string>
+    <string name="settings_version">Version %1$s</string>
+    <string name="shortcut_launcher_settings">Launcher settings</string>
+    <string name="shortcut_system_settings">System settings</string>
+    <string name="storage">Storage</string>
+    <string name="storage_value">%1$s free of %2$s</string>
+    <string name="volume">Volume</string>
+    <string name="volume_fixed">Controlled by the TV (HDMI‑CEC)</string>
+    <string name="volume_hint">◀ ▶ to change</string>
+    <style name="RowHeader" parent="@style/Widget.Leanback.Row.Header">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">@dimen/text_row_header</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="SettingsItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/settings_item_height</item>
+        <item name="android:layout_marginBottom">@dimen/spacing_small</item>
+        <item name="android:paddingStart">@dimen/spacing_medium</item>
+        <item name="android:paddingEnd">@dimen/spacing_medium</item>
+        <item name="android:background">@drawable/settings_item_background</item>
+        <item name="android:focusable">true</item>
+        <item name="android:gravity">center_vertical|start</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">@dimen/text_settings_item</item>
+    </style>
+    <style name="Theme.KieltykaTV.Home" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@color/home_bg</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Activity</item>
+    </style>
+    <style name="Theme.MiStickLauncher" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorControlHighlight">@color/colorGlow</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Activity</item>
+    </style>
+    <style name="Theme.MiStickLauncher.Browse" parent="@style/Theme.Leanback.Browse">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorControlHighlight">@color/colorGlow</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="defaultBrandColor">@color/background</item>
+        <item name="rowHeaderStyle">@style/RowHeader</item>
+    </style>
+    <style name="Theme.MiStickLauncher.Search" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="rowHeaderStyle">@style/RowHeader</item>
+    </style>
+</resources>

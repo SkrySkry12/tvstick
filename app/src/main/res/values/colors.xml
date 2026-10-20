@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- KiełtykaTV bottle-green palette -->
+    <color name="colorPrimary">#2D6A4F</color>
+    <color name="colorPrimaryDark">#1B4D3E</color>
+    <color name="colorSecondary">#40916C</color>
+    <color name="colorAccent">#00C896</color>
+    <color name="colorFocused">#00C896</color>
+    <color name="colorGlow">#6600C896</color>
+    <color name="colorBackground">#0A1A13</color>
+
+    <!-- Semantic aliases used by layouts/drawables/code -->
+    <color name="background">@color/colorBackground</color>
+    <color name="surface">#14291F</color>
+    <color name="surface_focused">#1B4D3E</color>
+    <color name="accent">@color/colorAccent</color>
+    <color name="accent_bright">#40916C</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A7C4B5</color>
+    <color name="ic_launcher_background">#2D6A4F</color>
+    <color name="home_bg">#040A07</color>
+</resources>

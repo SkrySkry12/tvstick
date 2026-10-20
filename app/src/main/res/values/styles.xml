@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MiStickLauncher" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorControlHighlight">@color/colorGlow</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Activity</item>
+    </style>
+
+    <style name="Theme.MiStickLauncher.Browse" parent="@style/Theme.Leanback.Browse">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorControlHighlight">@color/colorGlow</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="defaultBrandColor">@color/background</item>
+        <item name="rowHeaderStyle">@style/RowHeader</item>
+    </style>
+
+    <style name="Theme.KieltykaTV.Home" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@color/home_bg</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Activity</item>
+    </style>
+
+    <style name="Theme.MiStickLauncher.Search" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="rowHeaderStyle">@style/RowHeader</item>
+    </style>
+
+    <style name="RowHeader" parent="@style/Widget.Leanback.Row.Header">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">@dimen/text_row_header</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SettingsItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/settings_item_height</item>
+        <item name="android:layout_marginBottom">@dimen/spacing_small</item>
+        <item name="android:paddingStart">@dimen/spacing_medium</item>
+        <item name="android:paddingEnd">@dimen/spacing_medium</item>
+        <item name="android:background">@drawable/settings_item_background</item>
+        <item name="android:focusable">true</item>
+        <item name="android:gravity">center_vertical|start</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">@dimen/text_settings_item</item>
+    </style>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KiełtykaTV</string>
+    <string name="header_greeting">Ekran główny</string>
+    <string name="date_format">EEEE, d MMMM</string>
+
+    <string name="row_my_apps">Moje Aplikacje</string>
+    <string name="row_all_apps">Wszystkie Aplikacje</string>
+    <string name="row_settings">Ustawienia</string>
+
+    <string name="shortcut_launcher_settings">Ustawienia launchera</string>
+    <string name="shortcut_system_settings">Ustawienia systemu</string>
+
+    <string name="search_hint">Szukaj aplikacji</string>
+    <string name="search_results">Wyniki (%1$d)</string>
+    <string name="search_no_results">Nie znaleziono aplikacji dla „%1$s”</string>
+
+    <string name="settings_title">Ustawienia launchera</string>
+    <string name="settings_show_system">Pokazuj aplikacje systemowe w „Moje Aplikacje”</string>
+    <string name="settings_show_all">Pokazuj wiersz „Wszystkie Aplikacje”</string>
+    <string name="settings_banners">Używaj banerów TV na kartach</string>
+    <string name="settings_default_home">Wybierz domyślny ekran główny</string>
+    <string name="settings_version">Wersja %1$s</string>
+    <string name="settings_privacy">Bez reklam, bez śledzenia, bez dostępu do sieci.</string>
+
+    <string name="error_cannot_launch">Nie można otworzyć tej aplikacji</string>
+    <string name="error_no_voice">Wyszukiwanie głosowe jest niedostępne na tym urządzeniu</string>
+</resources>

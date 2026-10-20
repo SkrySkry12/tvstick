@@ -1,0 +1,256 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mistick.launcher.debug"
+4    android:versionCode="2"
+5    android:versionName="1.1.0-debug" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- Android TV: leanback UI required, no touchscreen -->
+12    <uses-feature
+12-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:6:5-8:35
+13        android:name="android.software.leanback"
+13-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:7:9-49
+14        android:required="true" />
+14-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:8:9-32
+15    <uses-feature
+15-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:9:5-11:36
+16        android:name="android.hardware.touchscreen"
+16-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:10:9-52
+17        android:required="false" />
+17-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:11:9-33
+18    <uses-feature
+18-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:12:5-14:36
+19        android:name="android.hardware.screen.landscape"
+19-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:13:9-57
+20        android:required="false" />
+20-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:14:9-33
+21
+22    <!-- Auto-start the launcher right after boot -->
+23    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+23-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:17:5-81
+23-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:17:22-78
+24    <!-- Network status in the header (no INTERNET permission) -->
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:19:5-79
+25-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:19:22-76
+26    <!-- "Uninstall" in the app options window -->
+27    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+27-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:21:5-82
+27-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:21:22-79
+28
+29    <!-- Package visibility (Android 11+): only apps that have a launcher entry -->
+30    <queries>
+30-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:24:5-33:15
+31        <intent>
+31-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:25:9-28:18
+32            <action android:name="android.intent.action.MAIN" />
+32-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:26:13-65
+32-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:26:21-62
+33
+34            <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+34-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:27:13-82
+34-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:27:23-79
+35        </intent>
+36        <intent>
+36-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:29:9-32:18
+37            <action android:name="android.intent.action.MAIN" />
+37-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:26:13-65
+37-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:26:21-62
+38
+39            <category android:name="android.intent.category.LAUNCHER" />
+39-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:31:13-73
+39-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:31:23-70
+40        </intent>
+41    </queries>
+42
+43    <permission
+43-->[androidx.core:core:1.12.0] /home/ubuntu/.gradle/caches/transforms-3/db3f6b8020888a7f113f2982cc217484/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+44        android:name="com.mistick.launcher.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+44-->[androidx.core:core:1.12.0] /home/ubuntu/.gradle/caches/transforms-3/db3f6b8020888a7f113f2982cc217484/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+45        android:protectionLevel="signature" />
+45-->[androidx.core:core:1.12.0] /home/ubuntu/.gradle/caches/transforms-3/db3f6b8020888a7f113f2982cc217484/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+46
+47    <uses-permission android:name="com.mistick.launcher.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+47-->[androidx.core:core:1.12.0] /home/ubuntu/.gradle/caches/transforms-3/db3f6b8020888a7f113f2982cc217484/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+47-->[androidx.core:core:1.12.0] /home/ubuntu/.gradle/caches/transforms-3/db3f6b8020888a7f113f2982cc217484/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+48
+49    <application
+49-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:35:5-96:19
+50        android:allowBackup="false"
+50-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:36:9-36
+51        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+51-->[androidx.core:core:1.12.0] /home/ubuntu/.gradle/caches/transforms-3/db3f6b8020888a7f113f2982cc217484/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+52        android:banner="@drawable/banner"
+52-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:37:9-42
+53        android:debuggable="true"
+54        android:extractNativeLibs="false"
+55        android:icon="@mipmap/ic_launcher"
+55-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:38:9-43
+56        android:isGame="false"
+56-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:40:9-31
+57        android:label="@string/app_name"
+57-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:41:9-41
+58        android:roundIcon="@mipmap/ic_launcher_round"
+58-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:39:9-54
+59        android:supportsRtl="true"
+59-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:42:9-35
+60        android:theme="@style/Theme.MiStickLauncher" >
+60-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:43:9-53
+61        <activity
+61-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:46:9-71:20
+62            android:name="com.mistick.launcher.MainActivity"
+62-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:47:13-41
+63            android:banner="@drawable/banner"
+63-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:48:13-46
+64            android:clearTaskOnLaunch="true"
+64-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:49:13-45
+65            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|uiMode"
+65-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:50:13-114
+66            android:excludeFromRecents="true"
+66-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:51:13-46
+67            android:exported="true"
+67-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:52:13-36
+68            android:launchMode="singleTask"
+68-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:53:13-44
+69            android:resumeWhilePausing="true"
+69-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:54:13-46
+70            android:screenOrientation="landscape"
+70-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:55:13-50
+71            android:stateNotNeeded="true"
+71-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:56:13-42
+72            android:theme="@style/Theme.KieltykaTV.Home" >
+72-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:57:13-57
+73
+74            <!-- Replaces the system home screen -->
+75            <intent-filter>
+75-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:60:13-64:29
+76                <action android:name="android.intent.action.MAIN" />
+76-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:26:13-65
+76-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:26:21-62
+77
+78                <category android:name="android.intent.category.HOME" />
+78-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:62:17-73
+78-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:62:27-70
+79                <category android:name="android.intent.category.DEFAULT" />
+79-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:63:17-76
+79-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:63:27-73
+80            </intent-filter>
+81
+82            <!-- Visible in the Android TV app list -->
+83            <intent-filter>
+83-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:67:13-70:29
+84                <action android:name="android.intent.action.MAIN" />
+84-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:26:13-65
+84-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:26:21-62
+85
+86                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+86-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:27:13-82
+86-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:27:23-79
+87            </intent-filter>
+88        </activity>
+89        <activity
+89-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:73:9-77:67
+90            android:name="com.mistick.launcher.SearchActivity"
+90-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:74:13-43
+91            android:exported="false"
+91-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:75:13-37
+92            android:screenOrientation="landscape"
+92-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:76:13-50
+93            android:theme="@style/Theme.MiStickLauncher.Search" />
+93-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:77:13-64
+94        <activity
+94-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:79:9-84:60
+95            android:name="com.mistick.launcher.SettingsActivity"
+95-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:80:13-45
+96            android:exported="false"
+96-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:81:13-37
+97            android:label="@string/settings_title"
+97-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:82:13-51
+98            android:screenOrientation="landscape"
+98-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:83:13-50
+99            android:theme="@style/Theme.MiStickLauncher" />
+99-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:84:13-57
+100
+101        <receiver
+101-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:86:9-95:20
+102            android:name="com.mistick.launcher.receiver.BootReceiver"
+102-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:87:13-50
+103            android:enabled="true"
+103-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:88:13-35
+104            android:exported="true" >
+104-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:89:13-36
+105            <intent-filter android:priority="1000" >
+105-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:90:13-94:29
+105-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:90:28-51
+106                <action android:name="android.intent.action.BOOT_COMPLETED" />
+106-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:91:17-79
+106-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:91:25-76
+107                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+107-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:92:17-82
+107-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:92:25-79
+108
+109                <category android:name="android.intent.category.DEFAULT" />
+109-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:63:17-76
+109-->/home/ubuntu/MiStickLauncher/app/src/main/AndroidManifest.xml:63:27-73
+110            </intent-filter>
+111        </receiver>
+112
+113        <provider
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+114            android:name="androidx.startup.InitializationProvider"
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:25:13-67
+115            android:authorities="com.mistick.launcher.debug.androidx-startup"
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:26:13-68
+116            android:exported="false" >
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:27:13-37
+117            <meta-data
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+118                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+119                android:value="androidx.startup" />
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+120        </provider>
+121
+122        <receiver
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+123            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+124            android:directBootAware="false"
+124-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+125            android:enabled="true"
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+126            android:exported="true"
+126-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+127            android:permission="android.permission.DUMP" >
+127-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+128            <intent-filter>
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+129                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+130            </intent-filter>
+131            <intent-filter>
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+132                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+133            </intent-filter>
+134            <intent-filter>
+134-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+135                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+135-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+135-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+136            </intent-filter>
+137            <intent-filter>
+137-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+138                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+138-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+138-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/ubuntu/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+139            </intent-filter>
+140        </receiver>
+141    </application>
+142
+143</manifest>

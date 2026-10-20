@@ -1,0 +1,4 @@
+#Tue Oct 20 23:06:09 UTC 2026
+base.0=/home/ubuntu/MiStickLauncher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_mic.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_mic.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/layout_activity_settings.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_arrow_back.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_arrow_back.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_hero_fade_bottom.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/hero_fade_bottom.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_logo_box.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/logo_box.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_avatar_ring.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/avatar_ring.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_accent_gradient.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/accent_gradient.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_dot_active.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/dot_active.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/layout_item_status_row.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/item_status_row.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_status_row.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/status_row.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_info.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_info.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_cast_connected.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_cast_connected.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/drawable_settings_item_background.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/settings_item_background.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_live_dot.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/live_dot.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_footer_fade.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/footer_fade.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_play_arrow.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_play_arrow.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_banner.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/banner.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/layout_activity_home.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_track.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/track.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_hero_fade_left.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/hero_fade_left.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_menu.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_menu.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_glass.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/glass.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/drawable_ic_tune.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/ic_tune.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_rounded_soft.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/rounded_soft.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_add.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_add.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_hero_shape.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/hero_shape.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_glass_card.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/glass_card.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/layout_dialog_app_actions.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/dialog_app_actions.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_ic_tune.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/ic_tune.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_bluetooth.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_bluetooth.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/font_inter_medium.ttf.flat",
+        "source": "com.mistick.launcher.app-main-30:/font/inter_medium.ttf"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_edge_fade.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/edge_fade.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_tv.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_tv.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/layout_item_key_hint.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/item_key_hint.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/layout_item_quick_tile.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/item_quick_tile.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_volume_up.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_volume_up.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/drawable_ic_settings.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_pill_white.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/pill_white.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/layout_item_app_card.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/layout/item_app_card.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/layout_item_dialog_action.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/item_dialog_action.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_thumb.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/thumb.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_search.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_search.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_footer_line.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/footer_line.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/font_inter_regular.ttf.flat",
+        "source": "com.mistick.launcher.app-main-30:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/drawable_banner.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/banner.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_storage.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_storage.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_settings.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_settings.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_delete.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_delete.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_circle_soft.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/circle_soft.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_glass_tile.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/glass_tile.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable-nodpi_hero_art.jpg.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable-nodpi/hero_art.jpg"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_apps.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_apps.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/font_inter_extralight.ttf.flat",
+        "source": "com.mistick.launcher.app-main-30:/font/inter_extralight.ttf"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/font_inter_semibold.ttf.flat",
+        "source": "com.mistick.launcher.app-main-30:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_sheen.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/sheen.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_wifi.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_wifi.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_kic_open_in_new.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/kic_open_in_new.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_glass_pill.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/glass_pill.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_key_chip.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/key_chip.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/layout_fragment_home.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-merged_res-28:/drawable_card_background.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.4/com.mistick.launcher.app-main-30:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_dialog_glass.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/dialog_glass.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/layout_item_tile.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/layout/item_tile.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_indicator.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/indicator.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_hero_sheen.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/hero_sheen.xml"
+    },
+    {
+        "merged": "com.mistick.launcher.app-merged_res-28:/drawable_dot_idle.xml.flat",
+        "source": "com.mistick.launcher.app-main-30:/drawable/dot_idle.xml"
+    }
+]

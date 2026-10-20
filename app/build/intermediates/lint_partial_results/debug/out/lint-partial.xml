@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.2.2" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.mistick.launcher.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnsafeImplicitIntentLaunch">
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="color[surface(U),text_primary(U),accent(U),background(U),ic_launcher_background(U),surface_focused(U),accent_bright(D),text_secondary(U)],dimen[text_date(U),screen_margin_vertical(U),header_padding_top(U),text_row_header(U),card_icon_size(U),screen_margin_horizontal(U),card_height(U),settings_item_height(U),spacing_large(U),text_settings_item(U),text_card_label(U),settings_width(U),spacing_small(U),card_corner_radius(U),spacing_medium(U),card_width(U),text_clock(U),text_header_title(U),text_settings_title(U),card_stroke(U),header_padding_bottom(U)],drawable[banner(U),card_background(U),settings_item_background(U),ic_tune(U),ic_launcher_foreground(U),ic_settings(U)],fraction[card_focus_scale(U)],id[card_label(U),main_container(U),header_title(U),card_frame(U),switch_show_system(U),btn_default_home(U),header_clock(D),switch_banners(U),btn_system_settings(U),text_version(U),header_date(D),switch_show_all(U),card_banner(U),header_search_orb(U),card_icon(U)],integer[card_anim_duration(U)],layout[fragment_home(U),item_app_card(U),activity_main(U),activity_settings(U)],mipmap[ic_launcher_round(U),ic_launcher(U)],string[settings_show_system(U),settings_default_home(U),row_all_apps(U),shortcut_system_settings(U),search_no_results(U),settings_show_all(U),search_hint(U),shortcut_launcher_settings(U),header_greeting(U),settings_title(U),settings_banners(U),app_name(U),search_results(U),error_no_voice(U),row_settings(U),row_my_apps(U),date_format(U),settings_version(U),error_cannot_launch(U),settings_privacy(U)],style[Theme_Leanback(R),RowHeader(U),Widget_Leanback_Row_Header(R),Theme_Leanback_Browse(R),Theme_MiStickLauncher_Search(U),SettingsItem(U),Theme_MiStickLauncher(U),Theme_MiStickLauncher_Browse(U)];1e^5^2^1b^15^0,1f^2^15^0,34^1c^d^a^40^16^42^7^19^1^18^4a^8,35^17^1e^e^1b^c^14^7^12,36^3,37^3^13^9^10^43^1^1a^3a^53^3f^44^3b^3d^7^12^14^4d,38^4^21,39^4^21,4f^50^1^b,52^4e^3^2^4f,53^f^14^16^1f^1^11,54^4e^3^2,55^51^3^2^4f;;;"/>
+        <location id="R.color.accent_bright"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="8"
+            column="12"
+            startOffset="285"
+            endLine="8"
+            endColumn="32"
+            endOffset="305"/>
+    </map>
+
+</incidents>

@@ -403,6 +403,7 @@ class MainActivity : FragmentActivity() {
             badge.setText(if (isRecent) R.string.hero_badge_recent else R.string.hero_badge_suggested)
             badgeIcon.setImageDrawable(item?.icon)
             badgeIcon.visibility = if (item?.icon != null) View.VISIBLE else View.GONE
+            bindHeroArt(item)
             buildDots()
         }
         if (!animate) { apply(); return }
@@ -422,6 +423,31 @@ class MainActivity : FragmentActivity() {
         art.animate().alpha(0.55f).setDuration(260).withEndAction {
             art.animate().alpha(1f).setDuration(600).withEndAction(null).start()
         }.start()
+    }
+
+    /** Hero artwork comes from the selected app: its TV banner, else its icon, else the stock picture. */
+    private fun bindHeroArt(item: AppItem?) {
+        val art = findViewById<ImageView>(R.id.hero_art)
+        val banner = item?.banner
+        val icon = item?.icon
+        when {
+            banner != null -> {
+                art.setPadding(0, 0, 0, 0)
+                art.scaleType = ImageView.ScaleType.CENTER_CROP
+                art.setImageDrawable(banner)
+            }
+            icon != null -> {
+                // No banner: show the icon on the right, clear of the text block.
+                art.setPadding((220 * d).toInt(), (40 * d).toInt(), (48 * d).toInt(), (40 * d).toInt())
+                art.scaleType = ImageView.ScaleType.FIT_CENTER
+                art.setImageDrawable(icon)
+            }
+            else -> {
+                art.setPadding(0, 0, 0, 0)
+                art.scaleType = ImageView.ScaleType.CENTER_CROP
+                art.setImageResource(R.drawable.hero_art)
+            }
+        }
     }
 
     private fun buildDots() {

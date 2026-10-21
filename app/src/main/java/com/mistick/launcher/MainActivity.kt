@@ -272,7 +272,7 @@ class MainActivity : FragmentActivity() {
                         if (event.repeatCount > 0 && now - lastMoveAt < MOVE_STEP_MS) return true
                         lastMoveAt = now
                         val to = myAdapter.moveBy(if (code == KeyEvent.KEYCODE_DPAD_LEFT) -1 else 1)
-                        if (to >= 0) myRow.setSelectedPositionSmooth(to)
+                        if (to >= 0) myRow.selectedPosition = to // instant: smooth scroll fights the move animation
                     }
                     return true
                 }

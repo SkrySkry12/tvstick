@@ -68,6 +68,7 @@ class MainActivity : FragmentActivity() {
     private var apps: List<AppItem> = emptyList()
     private var heroItems: List<AppItem> = emptyList()
     private var heroIndex = 0
+    private var lastMoveAt = 0L
     private var colonOn = true
     private var appsDirty = true
     private var kenBurns: ValueAnimator? = null
@@ -266,6 +267,10 @@ class MainActivity : FragmentActivity() {
             when (code) {
                 KeyEvent.KEYCODE_DPAD_LEFT, KeyEvent.KEYCODE_DPAD_RIGHT -> {
                     if (event.action == KeyEvent.ACTION_DOWN) {
+                        // Holding the key repeats very fast: allow at most one step per animation.
+                        val now = android.os.SystemClock.uptimeMillis()
+                        if (event.repeatCount > 0 && now - lastMoveAt < MOVE_STEP_MS) return true
+                        lastMoveAt = now
                         val to = myAdapter.moveBy(if (code == KeyEvent.KEYCODE_DPAD_LEFT) -1 else 1)
                         if (to >= 0) myRow.setSelectedPositionSmooth(to)
                     }
@@ -354,6 +359,7 @@ class MainActivity : FragmentActivity() {
     // ---------------------------------------------------------------- hero
 
     private fun setupHero() {
+        findViewById<View>(R.id.hero).clipToOutline = true
         heroOpen.setOnClickListener { heroItems.getOrNull(heroIndex)?.let(::launch) }
         findViewById<View>(R.id.hero_info).setOnClickListener {
             heroItems.getOrNull(heroIndex)?.let(::showActions)
@@ -426,6 +432,10 @@ class MainActivity : FragmentActivity() {
     }
 
     /** Hero artwork comes from the selected app: its TV banner, else its icon, else the stock picture. */
+    /** Own copy of a drawable: sharing one instance between views makes them fight over its bounds. */
+    private fun fresh(d: android.graphics.drawable.Drawable) =
+        d.constantState?.newDrawable(resources)?.mutate() ?: d
+
     private fun bindHeroArt(item: AppItem?) {
         val art = findViewById<ImageView>(R.id.hero_art)
         val banner = item?.banner
@@ -434,13 +444,13 @@ class MainActivity : FragmentActivity() {
             banner != null -> {
                 art.setPadding(0, 0, 0, 0)
                 art.scaleType = ImageView.ScaleType.CENTER_CROP
-                art.setImageDrawable(banner)
+                art.setImageDrawable(fresh(banner))
             }
             icon != null -> {
                 // No banner: show the icon on the right, clear of the text block.
                 art.setPadding((220 * d).toInt(), (40 * d).toInt(), (48 * d).toInt(), (40 * d).toInt())
                 art.scaleType = ImageView.ScaleType.FIT_CENTER
-                art.setImageDrawable(icon)
+                art.setImageDrawable(fresh(icon))
             }
             else -> {
                 art.setPadding(0, 0, 0, 0)
@@ -756,6 +766,7 @@ class MainActivity : FragmentActivity() {
 
     private companion object {
         const val HERO_INTERVAL = 8000L
+        const val MOVE_STEP_MS = 220L
         const val AIRSCREEN = "com.ionitech.airscreen"
         val OPTION_KEYS = setOf(
             KeyEvent.KEYCODE_MENU, KeyEvent.KEYCODE_INFO, KeyEvent.KEYCODE_SETTINGS,
